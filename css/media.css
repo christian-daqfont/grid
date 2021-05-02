@@ -1,0 +1,12 @@
+@media screen and (max-height:640px) {
+    .contenedor{
+        height: 600px;
+    }
+}
+@media screen and (max-height:420px) {
+    .contenedor{
+        height: 400px;
+    }
+}
+
+
